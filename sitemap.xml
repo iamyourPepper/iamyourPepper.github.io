@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>http://thepathfinder.top/20260104-o365-group-sender-receipt/</loc>
+    
+    <lastmod>2026-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://thepathfinder.top/categories/</loc>
     
     <lastmod>2026-02-18</lastmod>
@@ -238,6 +247,34 @@
   
   <url>
     <loc>http://thepathfinder.top/tags/Teams/</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://thepathfinder.top/tags/Microsoft-365/</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://thepathfinder.top/tags/Exchange-Online/</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://thepathfinder.top/tags/O365-Groups/</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://thepathfinder.top/tags/PowerShell/</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -1,5 +1,6 @@
 http://thepathfinder.top/link/
 http://thepathfinder.top/tags/
+http://thepathfinder.top/20260104-o365-group-sender-receipt/
 http://thepathfinder.top/categories/
 http://thepathfinder.top/20240806O365appstoextra/
 http://thepathfinder.top/20240723-21Csharepoint/
@@ -28,4 +29,8 @@ http://thepathfinder.top/tags/Sharepoint/
 http://thepathfinder.top/tags/%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94/
 http://thepathfinder.top/tags/Onedrive/
 http://thepathfinder.top/tags/Teams/
+http://thepathfinder.top/tags/Microsoft-365/
+http://thepathfinder.top/tags/Exchange-Online/
+http://thepathfinder.top/tags/O365-Groups/
+http://thepathfinder.top/tags/PowerShell/
 http://thepathfinder.top/categories/O365/
