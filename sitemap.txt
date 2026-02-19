@@ -32,10 +32,7 @@ http://thepathfinder.top/tags/Onedrive/
 http://thepathfinder.top/tags/Teams/
 http://thepathfinder.top/tags/Microsoft-365/
 http://thepathfinder.top/tags/Exchange-Online/
-http://thepathfinder.top/tags/Online-Archive/
-http://thepathfinder.top/tags/Retention-Policies/
 http://thepathfinder.top/tags/PowerShell/
 http://thepathfinder.top/tags/IT-Management/
-http://thepathfinder.top/tags/Compliance/
 http://thepathfinder.top/tags/O365-Groups/
 http://thepathfinder.top/categories/O365/
