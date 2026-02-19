@@ -1,5 +1,6 @@
 http://thepathfinder.top/link/
 http://thepathfinder.top/tags/
+http://thepathfinder.top/20251215-m365-email-archive-management/
 http://thepathfinder.top/20260104-o365-group-sender-receipt/
 http://thepathfinder.top/categories/
 http://thepathfinder.top/20240806O365appstoextra/
@@ -31,6 +32,10 @@ http://thepathfinder.top/tags/Onedrive/
 http://thepathfinder.top/tags/Teams/
 http://thepathfinder.top/tags/Microsoft-365/
 http://thepathfinder.top/tags/Exchange-Online/
-http://thepathfinder.top/tags/O365-Groups/
+http://thepathfinder.top/tags/Online-Archive/
+http://thepathfinder.top/tags/Retention-Policies/
 http://thepathfinder.top/tags/PowerShell/
+http://thepathfinder.top/tags/IT-Management/
+http://thepathfinder.top/tags/Compliance/
+http://thepathfinder.top/tags/O365-Groups/
 http://thepathfinder.top/categories/O365/
