@@ -2,7 +2,6 @@ http://thepathfinder.top/link/
 http://thepathfinder.top/tags/
 http://thepathfinder.top/20251215-m365-email-archive-management/
 http://thepathfinder.top/20260104-o365-group-sender-receipt/
-http://thepathfinder.top/20260308-openclaw-multi-agent-topic-routing/
 http://thepathfinder.top/categories/
 http://thepathfinder.top/20240806O365appstoextra/
 http://thepathfinder.top/20240723-21Csharepoint/
@@ -36,10 +35,4 @@ http://thepathfinder.top/tags/Exchange-Online/
 http://thepathfinder.top/tags/PowerShell/
 http://thepathfinder.top/tags/IT-Management/
 http://thepathfinder.top/tags/O365-Groups/
-http://thepathfinder.top/tags/OpenClaw/
-http://thepathfinder.top/tags/Telegram-Bot/
-http://thepathfinder.top/tags/%E5%A4%9A-Agent/
-http://thepathfinder.top/tags/Topic-%E8%B7%AF%E7%94%B1/
 http://thepathfinder.top/categories/O365/
-http://thepathfinder.top/categories/Infrastructure/
-http://thepathfinder.top/categories/Infrastructure/Automation/

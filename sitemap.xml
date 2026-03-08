@@ -38,15 +38,6 @@
   </url>
   
   <url>
-    <loc>http://thepathfinder.top/20260308-openclaw-multi-agent-topic-routing/</loc>
-    
-    <lastmod>2026-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://thepathfinder.top/categories/</loc>
     
     <lastmod>2026-03-08</lastmod>
@@ -305,52 +296,10 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>http://thepathfinder.top/tags/OpenClaw/</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://thepathfinder.top/tags/Telegram-Bot/</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://thepathfinder.top/tags/%E5%A4%9A-Agent/</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://thepathfinder.top/tags/Topic-%E8%B7%AF%E7%94%B1/</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>http://thepathfinder.top/categories/O365/</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://thepathfinder.top/categories/Infrastructure/</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://thepathfinder.top/categories/Infrastructure/Automation/</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
